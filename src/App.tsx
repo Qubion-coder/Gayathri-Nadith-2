@@ -322,7 +322,7 @@ export default function EngagementInvitation() {
                     </div>
 
                     <div className="space-y-1">
-                      <h3 className="text-xs md:text-base font-cinzel tracking-wider text-theme-900 uppercase font-bold">Sevonlak Hotel, Divulapitiya</h3>
+                      <h3 className="text-xs md:text-base font-cinzel tracking-wider text-theme-900 uppercase font-bold">Sundale Hotel Divulapitiya</h3>
                     </div>
 
                     <div className="flex flex-col items-center gap-1">
@@ -336,7 +336,7 @@ export default function EngagementInvitation() {
                   {/* Location Connection Link */}
                   <div className="pt-2 w-full max-w-[280px] mx-auto">
                     <a
-                      href="https://maps.app.goo.gl/S4dggMbJNLTAqFJeA?g_st=ic"
+                      href="https://maps.app.goo.gl/95T2gEwmyxq1KyLf6"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="w-full inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl border-2 border-theme-500/40 text-theme-500 hover:bg-theme-500 hover:text-brown-base transition-all duration-300 font-bold tracking-[0.1em] text-[10px] uppercase shadow-md shadow-theme-500/5 hover:shadow-theme-500/20"

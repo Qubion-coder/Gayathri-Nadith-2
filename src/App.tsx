@@ -86,7 +86,7 @@ export default function EngagementInvitation() {
       formData.append("guestName", guestName || "");
 
       // Replace this URL with your deployed Google Apps Script Web App URL
-      const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwscy_8f6IqMOivA6u_Hyr_HiHz_PNA7wJI6VWiKL_Tfx8g6UTHysbjKPMlIHKM357J/exec";
+      const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyxO0LHroR-4WZ781x8mLLPznhCTWaqgqkrJLySE0o0vFfGXDV6DLsPv4HcqmJvVoLV/exec";
 
       if (GOOGLE_SCRIPT_URL !== "YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE") {
         await fetch(GOOGLE_SCRIPT_URL, {
